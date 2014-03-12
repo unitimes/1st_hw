@@ -1,0 +1,5 @@
+/Users/cob_macpro/fst_hw/fst_hw/fst_hw/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/cob_macpro/fst_hw/fst_hw/fst_hw/bin/Debug/fst_hw.exe.mdb
+/Users/cob_macpro/fst_hw/fst_hw/fst_hw/bin/Debug/fst_hw.exe
+/Users/cob_macpro/fst_hw/fst_hw/fst_hw/obj/x86/Debug/fst_hw.exe
+/Users/cob_macpro/fst_hw/fst_hw/fst_hw/obj/x86/Debug/fst_hw.exe.mdb

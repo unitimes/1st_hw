@@ -8,6 +8,7 @@ namespace helloworld
 		{
 			Console.WriteLine ("안녕하세요?");
 			Console.WriteLine ("라인 추가");
+			Console.WriteLine ("add a branch, tets.");
 		}
 	}
 }
